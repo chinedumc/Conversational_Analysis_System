@@ -1,0 +1,2 @@
+model_checkpoint_path: "/gdrive/My Drive/Conversational_Analysis/model.tflearn"
+all_model_checkpoint_paths: "/gdrive/My Drive/Conversational_Analysis/model.tflearn"
